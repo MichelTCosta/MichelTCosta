@@ -15,11 +15,9 @@ Already exposed a game on BGS 2023
 
 ### Projects: 
 
-![Itch](https://github.com/MichelTCosta/MichelTCosta/assets/53797968/9dffd877-b3c2-4e19-8f76-3d8a6333fb2c)[1]
+[![image](https://github.com/MichelTCosta/MichelTCosta/assets/53797968/18ca590d-7ded-4130-b71d-f53f368c74c7)][1]
+[![Illustration-of-Linkedin-icon-on-transparent-background-PNG](https://github.com/MichelTCosta/MichelTCosta/assets/53797968/e0a5dca3-3955-4ea9-a602-1181c47f9656)][2]
 
-![Illustration-of-Linkedin-icon-on-transparent-background-PNG](https://github.com/MichelTCosta/MichelTCosta/assets/53797968/ced16c9d-c0ed-49c3-abff-d035664872d7)[2]
-
-![image](https://github.com/MichelTCosta/MichelTCosta/assets/53797968/97278d12-1ff6-4ee7-b503-bfe85b05be11) [3]
 
 
 ---------------------------------------------------------------
