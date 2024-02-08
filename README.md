@@ -46,4 +46,4 @@ Already exposed a game on BGS 2023 😎
 
 
 
-<img src="https://github.com/MichelTCosta/MichelTCosta/assets/53797968/18ca590d-7ded-4130-b71d-f53f368c74c7" width="100" height="100">
+<img src="https://github.com/MichelTCosta/MichelTCosta/assets/53797968/18ca590d-7ded-4130-b71d-f53f368c74c7" width="50" height="50">
