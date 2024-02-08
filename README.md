@@ -8,6 +8,11 @@ Already exposed a game on BGS 2023
 -----------------------------------------------------------------------------------------------------------------
 
 • Ussualy working on my own projects 🏏
+
+
+
+
+
 • Passionate about creating games 🎮
 • Looking to work on game development 👾
 
