@@ -18,7 +18,7 @@ Already exposed a game on BGS 2023 😎
 
 -----------------------------------------------------------------------------------------------------------------
 
-• Ussualy working on my own projects 🏏
+• Usually working on my own projects 🏏
 
 
 
