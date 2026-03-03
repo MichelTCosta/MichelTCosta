@@ -52,5 +52,5 @@ Already exposed a game on BGS 2023 😎
 
 
 [1]: https://www.instagram.com/michelcosta255/?next=%2Fmichelllcosta%2F
-[2]: https://www.linkedin.com/in/michel-costa-5073312b1/
+[2]: https://www.linkedin.com/in/michel-costa-2362341b9/
 [3]: https://michelcosta.itch.io
