@@ -41,7 +41,7 @@ Already exposed a game on BGS 2023
 
 [Portfolio][1]
 
-[1]: michelcosta.figma.site
+[1]: https://michelcosta.figma.site
 
 
 
