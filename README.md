@@ -1,4 +1,4 @@
-### Hi 👋
+### Hello,  my name is Michel
 -----------------------------------------------------------------------------------------------------------------
 
 I'm a programmer and game developer that love make and play games.
